@@ -17,15 +17,15 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS3
+- React & TailwindCSS
+- Grid & Flexbox
 - Responsiveness
 
 ### What I learned
 
-- Form validation
-- JS style manipulation with click event handler
-- Semantic HTML5 Markup
+- Dynamic classes reactjs to handle props
+- Tailwind Config
+- Setting up react project
 
 ## Author
 

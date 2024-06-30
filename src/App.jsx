@@ -23,7 +23,7 @@ const App = () => {
             <Card
               title="Supervisor"
               text="Monitors activity to identify project roadblocks"
-              borderColour="red-500"
+              borderColour="primary-cyan"
               icon={"../images/icon-supervisor.svg"}
             />
           </div>
@@ -38,7 +38,7 @@ const App = () => {
             <Card
               title="Karma"
               text="Regularly evaluates our talent to ensure quality"
-              borderColour="neutral-dark-blue"
+              borderColour="primary-orange"
               icon={"../images/icon-karma.svg"}
             />
           </div>
@@ -46,7 +46,7 @@ const App = () => {
             <Card
               title="Calculator"
               text="Uses data from past projects to provide better delivery estimates"
-              borderColour="primary-cyan"
+              borderColour="primary-blue"
               icon={"../images/icon-calculator.svg"}
             />
           </div>
